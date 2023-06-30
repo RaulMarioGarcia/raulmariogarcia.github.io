@@ -1,0 +1,9 @@
+.presentation__item{
+    margin-right: 1rem;   
+}
+
+.presentation__item:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 700;
+}

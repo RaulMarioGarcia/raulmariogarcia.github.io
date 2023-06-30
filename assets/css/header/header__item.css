@@ -1,0 +1,22 @@
+.header__item{
+    margin-right: 1rem;
+}
+
+.header__item:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.header__item--destacado{
+    font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+    .header__item {
+    margin-top: 1rem;
+    }
+
+    .header__item--destacado {
+        margin-top: 1rem;
+        }
+}

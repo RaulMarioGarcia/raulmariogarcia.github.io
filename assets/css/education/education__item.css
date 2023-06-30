@@ -1,0 +1,12 @@
+.education__item{
+    width: 20%;
+    margin: 0 0.5rem 3rem 0;
+}
+
+@media screen and (max-width: 768px) {
+    .education__item{
+    width: 85%;
+    margin: 0 0 2rem 0; 
+    align-items: center;
+    }
+}

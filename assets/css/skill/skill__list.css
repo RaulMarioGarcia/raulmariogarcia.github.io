@@ -1,0 +1,13 @@
+.skill__list{
+    display: flex;
+    justify-content: space-between;
+    align-content: baseline;
+}
+
+@media screen and (max-width: 768px) {
+    .skill__list{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+}

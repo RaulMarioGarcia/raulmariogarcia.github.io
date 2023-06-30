@@ -1,0 +1,11 @@
+.contact__content{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 2rem;
+}
+
+@media screen and (max-width: 768px) {
+    .contact__content{
+        margin: 0;
+    }
+}

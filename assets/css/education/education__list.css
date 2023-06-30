@@ -1,0 +1,19 @@
+.education__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .education__list{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .education__list{
+        margin: 0 3rem;
+}
+}

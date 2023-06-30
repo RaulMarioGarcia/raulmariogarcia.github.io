@@ -1,0 +1,13 @@
+.presentation__img{
+    width: 33%;
+    height: auto;
+    border-radius: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .presentation__img{
+    order: -1;
+    width: 100%;
+    margin-bottom: 2rem;
+    }
+}

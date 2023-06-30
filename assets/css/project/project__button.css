@@ -1,0 +1,13 @@
+.project__button{
+    border: solid 1px #2A7AE4;
+    color: #2A7AE4;
+    padding: 0.7rem;
+    border-radius: 5%;
+    transition: 1s;
+}
+
+.project__button:hover{
+    cursor: pointer;
+    color: #f5f5f5;
+    background-color: #2A7AE4;
+}

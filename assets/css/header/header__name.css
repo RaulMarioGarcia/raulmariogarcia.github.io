@@ -1,0 +1,9 @@
+.header__name{
+    display: flex;
+    align-items: center;
+}
+@media screen and (max-width: 768px) {
+    .header__name{
+    margin-bottom: 1rem
+    }
+}

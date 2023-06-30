@@ -1,0 +1,23 @@
+.project__img{
+    width: 60%;
+    height: auto;
+}
+
+.project__img--ver2{
+    width: 60%;
+    height: auto;
+    order: 99;
+}
+
+@media screen and (max-width: 768px) {
+    .project__img{
+        width: 100%;
+        margin-bottom: 1.5rem;
+    }
+
+    .project__img--ver2{
+        width: 100%;
+        order: -1;
+        margin-bottom: 1.5rem;
+    }
+}

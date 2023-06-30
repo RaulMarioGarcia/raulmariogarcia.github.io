@@ -1,0 +1,26 @@
+.education__logo{
+    background-color: #ffffff;
+    width: 30%;
+    padding: 5rem;
+}
+
+.education__logo--alura{
+    background-image: url(../../img/alura_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+.education__logo--linkedin{
+    background-image: url(../../img/linkedin\ logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+
+.education__logo--google{
+    background-image: url(../../img/Google__G__Logo.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
